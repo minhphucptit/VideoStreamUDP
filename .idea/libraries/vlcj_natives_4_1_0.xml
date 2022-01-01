@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vlcj-natives-4.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Applications/jar_files/vlcj-natives-4.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
